@@ -1,2 +1,2 @@
-# DistributedFrames.jl
-A distributed dataframes
+# FireFlower.jl
+A distributable dataframes.
