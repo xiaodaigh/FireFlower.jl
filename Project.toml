@@ -1,0 +1,16 @@
+name = "FireFlower"
+uuid = "5cf422cc-bed9-4365-ab34-fc022de7c51e"
+authors = ["Dai ZJ <zhuojia.dai@gmail.com> and contributors"]
+version = "0.1.0"
+
+[deps]
+FileTrees = "72696420-646e-6120-6e77-6f6420746567"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
